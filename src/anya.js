@@ -1,5 +1,5 @@
 const pic = {
-    uniform: "https://spy-family.net/assets/img/common/header_bottomimg_3.png",
+    uniform: "https://stickershop.line-scdn.net/stickershop/v1/sticker/382380375/android/sticker.png",
     icecream: "https://spy-family.net/assets/img/common/header_bottomimg_3_family.png",
     uniform_large: "https://spy-family.net/assets/img/top/chara_anya_1.png",
     casual_large: "https://spy-family.net/assets/img/top/chara_anya_2.png",
@@ -60,7 +60,7 @@ const about = [
 
 const projects = [
     {
-        name: "My Portfolio Website",
+        name: "我的個人網站: My Portfolio Website",
         description: "A portfolio website for myself that I developed in NTNU CSIE Camp.",
         image: "https://spy-family.net/assets/img/special/wall02.jpg",
         skills: ["Vue", "Tailwind", "Node.js", "GitHub"],
