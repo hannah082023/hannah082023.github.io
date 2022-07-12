@@ -35,13 +35,18 @@ pic.avatars.push(
     "https://spy-family.net/assets/img/special/episode12/06.png",
 );
 
-const titles = ["First-Grade Student", "Test Subject 007", "Telepath"];
+const titles = ["ZhongShan Girls High School Student", "124th", "Class Lien", "Taipei"];
 
 const about = [
-    "My name is Anya Forger. I am 6 years old now!",
-    "I am studing in Cecile Hall at Eden Academy.",
+    "My name is Hannah Su.",
+    "I am studing ZhongShan Girls High School mathematics and science gifted class.",
+    "I'm now doing a computer science research about image recognization.",
+    "I have many interests, such as coding, playing piano, making up, shopping.",
+    "And I love Kanahei's Small Animals!",
     "",
-    "This summer I went to NTNU CSIE Camp to learn how to code.",
+    "In 2022 summer I went to NTNU CSIE Camp to learn how to code.",
+    "I was taught how to build this website and found this interesting!",
+    "I'm grateful for everyone's effort, I had great memories there:D",
     "During the camp, I learned how to: ",
     "  - Build SPA Website with frontend framework Vue and Tailwind.",
     "  - Develop efficiently with Node.js ecosystem.",
@@ -49,7 +54,8 @@ const about = [
     "  - Operate Linux system with common commands.",
     "  - Use Git and GitHub to work on projects.",
     "",
-    'By the way, I am starring in an anime called "SPY x FAMILY". Did you watch it?',
+    'By the way, please follow my Instagram(⁎⁍̴̛ᴗ⁍̴̛⁎) @hannah082023',
+    'If you have any questions or suggestions, please contact me: hannah082023@gmail.com',
 ].join("\n");
 
 const projects = [
