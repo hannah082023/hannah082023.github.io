@@ -2,7 +2,7 @@
 import { pic } from "../anya";
 
 const links = [
-    { text: "Anya", url: "/" },
+    { text: "Hannah", url: "/" },
     { text: "About", url: "/about" },
     { text: "Projects", url: "/projects" },
 ];
@@ -50,7 +50,7 @@ const links = [
             leave-to-class="transform -translate-x-32"
         >
             <div
-                class="absolute top-4 left-4 z-50 h-20 w-20 overflow-hidden rounded-full bg-pink-200 shadow-md shadow-blue-300 ring-1 ring-violet-700 md:h-24 md:w-24"
+                class="absolute top-4 left-4 z-50 h-20 w-20 overflow-hidden rounded-full bg-pink-200 shadow-md shadow-rose-300 ring-1 ring-red-500 md:h-24 md:w-24"
                 v-if="$route.path !== '/about'"
             >
                 <img
