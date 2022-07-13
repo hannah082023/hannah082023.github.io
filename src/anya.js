@@ -1,8 +1,8 @@
 const pic = {
     uniform: "https://stickershop.line-scdn.net/stickershop/v1/sticker/382380375/android/sticker.png",
-    icecream: "https://spy-family.net/assets/img/common/header_bottomimg_3_family.png",
+    icecream: "https://stickershop.line-scdn.net/stickershop/v1/product/24283/LINEStorePC/main.png;compress=true",
     uniform_large: "https://spy-family.net/assets/img/top/chara_anya_1.png",
-    casual_large: "https://spy-family.net/assets/img/top/chara_anya_2.png",
+    casual_large: "https://stickershop.line-scdn.net/stickershop/v1/product/8949/LINEStorePC/main.png",
     avatars: [],
 };
 
@@ -62,7 +62,7 @@ const projects = [
     {
         name: "我的個人網站 My Portfolio Website",
         description: "A portfolio website for myself that I developed in NTNU CSIE Camp. You're now here!",
-        image: "https://img.onl/M0mnkL",
+        image: "https://img.onl/pmSrht",
         skills: ["Vue", "Tailwind", "Node.js", "GitHub"],
         url: "https://github.com/anya-forger/anya-forger.github.io",
     },

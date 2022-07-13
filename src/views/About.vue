@@ -34,14 +34,14 @@ function update(delay = 0) {
             >
                 <img
                     :src="pic.icecream"
-                    class="inline-block w-64 p-4 drop-shadow-lg md:w-96"
+                    class="h-full w-full drop-shadow-lg md:w-96"
                     @load="show_pic = true"
                     v-show="step > 0 && show_pic"
                 />
             </transition>
             <Typing
                 :text="about"
-                :speed="25"
+                :speed="10"
                 v-if="step > 0"
                 @done="step++"
                 class="flex-1 md:mx-4"

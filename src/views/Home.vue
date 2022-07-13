@@ -47,9 +47,8 @@ const width = screen.width;
                     leave-to-class="transform opacity-0 translate-y-12 md:translate-x-12"
                 >
                     <img
-                        v-show="step > (width >= 768 ? 0 : 3)"
                         :src="pic.casual_large"
-                        class="-translate-y-0 scale-[200%] md:-translate-y-20 md:scale-150 lg:-translate-y-32 lg:scale-125"
+                        class="h-full w-full drop-shadow-lg md:w-96"
                     />
                 </transition>
             </div>
