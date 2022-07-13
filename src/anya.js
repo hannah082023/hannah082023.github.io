@@ -60,25 +60,25 @@ const about = [
 
 const projects = [
     {
-        name: "我的個人網站: My Portfolio Website",
-        description: "A portfolio website for myself that I developed in NTNU CSIE Camp.",
-        image: "https://spy-family.net/assets/img/special/wall02.jpg",
+        name: "我的個人網站 My Portfolio Website",
+        description: "A portfolio website for myself that I developed in NTNU CSIE Camp. You're now here!",
+        image: "https://img.onl/M0mnkL",
         skills: ["Vue", "Tailwind", "Node.js", "GitHub"],
         url: "https://github.com/anya-forger/anya-forger.github.io",
     },
     {
-        name: "AI Gomoku Gaming Agent",
-        description: "A gomoku gaming agent with Python that I designed in NTNU CSIE Camp.",
-        image: "https://spy-family.net/assets/img/special/wall01.jpg",
-        skills: ["Python", "Algorithm", "Gomoku"],
-        url: "https://github.com/anya-forger",
+        name: "我的專題摘發",
+        description: "Coming soon...",
+        image: "https://img.onl/uVNfga",
+        skills: ["AI", "Computer Science", "Image Recognization","CNN"],
+        url: "https://www.instagram.com/hannah082023/",
     },
     {
-        name: "SPY x FAMILY",
-        description: "An anime that I starred in.",
-        image: "https://spy-family.net/assets/img/special/special10_1.gif",
-        skills: ["Performings"],
-        url: "https://spy-family.net",
+        name: "2022 GiCS初賽影片",
+        description: "2022 資安女婕思--創意發想賽 成功進入決賽！",
+        image: "https://i9.ytimg.com/vi/RgyQCT0VU2Y/maxresdefault.jpg?time=1657694700000&sqp=COzTuZYG&rs=AOn4CLC1fu70oJXJVvc_nUJshXR6uO1bBQ",
+        skills: ["CyberSecurity","QR Code"],
+        url: "https://youtu.be/RgyQCT0VU2Y",
     },
 ];
 
