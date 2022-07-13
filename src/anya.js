@@ -26,7 +26,7 @@ const titles = ["ZhongShan Girls High School Student", "124th", "Class Lien", "T
 
 const about = [
     "My name is Hannah Su.",
-    "I am studing ZhongShan Girls High School mathematics and science gifted class.",
+    "I am studying ZhongShan Girls High School mathematics and science gifted class.",
     "I'm now doing a computer science research about image recognization.",
     "I have many interests, such as coding, playing piano, making up, shopping.",
     "And I love Kanahei's Small Animals!",
