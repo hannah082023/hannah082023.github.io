@@ -8,18 +8,18 @@ const pic = {
 
 
 pic.avatars.push(
-    "/Users/hannah/Documents/GitHub/anya-forger.github.io/public/IMG_3090.JPG",
-    "/Users/hannah/Documents/GitHub/anya-forger.github.io/public/IMG_3775.jpg",
-    "/Users/hannah/Documents/GitHub/anya-forger.github.io/public/IMG_3873.JPG",
-    "/Users/hannah/Documents/GitHub/anya-forger.github.io/public/IMG_4155.JPG",
-    "/Users/hannah/Documents/GitHub/anya-forger.github.io/public/IMG_4486.JPG",
-    "/Users/hannah/Documents/GitHub/anya-forger.github.io/public/IMG_4763.jpg",
-    "/Users/hannah/Documents/GitHub/anya-forger.github.io/public/IMG_4858.JPG",
-    "/Users/hannah/Documents/GitHub/anya-forger.github.io/public/IMG_5077.JPG",
-    "/Users/hannah/Documents/GitHub/anya-forger.github.io/public/IMG_5109.JPG",
-    "/Users/hannah/Documents/GitHub/anya-forger.github.io/public/IMG_5114.JPG",
-    "/Users/hannah/Documents/GitHub/anya-forger.github.io/public/IMG_5127.JPG",
-    "/Users/hannah/Documents/GitHub/anya-forger.github.io/public/IMG_5130.JPG",
+    "image/IMG_3090.JPG",
+    "image/IMG_3775.jpg",
+    "image/IMG_3873.JPG",
+    "image/IMG_4486.JPG",
+    "image/IMG_4763.jpg",
+    "image/IMG_5130.JPG",
+    "image/IMG_5077.JPG",
+    "image/IMG_5109.JPG",
+    "image/IMG_5114.JPG",
+    "image/IMG_5127.JPG",
+    "image/IMG_4858.JPG",
+    "image/IMG_4155.JPG",
 );
 
 const titles = ["ZhongShan Girls High School Student", "124th", "Class Lien", "Taipei"];
@@ -49,21 +49,21 @@ const projects = [
     {
         name: "我的個人網站 My Portfolio Website",
         description: "A portfolio website for myself that I developed in NTNU CSIE Camp. You're now here!",
-        image: "https://img.onl/pmSrht",
+        image: "image/2.png",
         skills: ["Vue", "Tailwind", "Node.js", "GitHub"],
         url: "https://hannah082023.github.io/",
     },
     {
         name: "我的專題摘發",
         description: "Coming soon...",
-        image: "https://img.onl/uVNfga",
+        image: "image/3.png",
         skills: ["AI", "Computer Science", "Image Recognization","CNN"],
         url: "https://www.instagram.com/hannah082023/",
     },
     {
         name: "2022 GiCS初賽影片",
         description: "2022 資安女婕思--創意發想賽 成功進入決賽！",
-        image: "https://i9.ytimg.com/vi/RgyQCT0VU2Y/maxresdefault.jpg?time=1657694700000&sqp=COzTuZYG&rs=AOn4CLC1fu70oJXJVvc_nUJshXR6uO1bBQ",
+        image: "image/1.jpeg",
         skills: ["CyberSecurity","QR Code"],
         url: "https://youtu.be/RgyQCT0VU2Y",
     },
