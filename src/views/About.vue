@@ -59,7 +59,7 @@ function update(delay = 0) {
             <div
                 v-for="i in pic.avatars.length - 1"
                 :key="i"
-                class="m-2 overflow-hidden rounded-full ring-fuchsia-400 transition-all hover:ring-4"
+                class="h-full w-full"
             >
                 <transition
                     enter-active-class="duration-200 ease-out"
@@ -74,7 +74,7 @@ function update(delay = 0) {
                         v-show="step > 1 + i"
                         :src="pic.avatars[i]"
                         class="w-full cursor-pointer transition-all hover:scale-125"
-                        @click="open('https://spy-family.net/#tSpecial')"
+                        @click="open('https://www.instagram.com/hannah082023/')"
                     />
                 </transition>
             </div>

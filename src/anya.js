@@ -6,33 +6,20 @@ const pic = {
     avatars: [],
 };
 
-for (let i = 1; i <= 40; i++) {
-    pic.avatars[i] = `https://spy-family.net/assets/img/special/anya/${i
-        .toString()
-        .padStart(2, "0")}.png`;
-}
+
 pic.avatars.push(
-    "https://spy-family.net/assets/img/special/episode4/02.png",
-    "https://spy-family.net/assets/img/special/episode4/05.png",
-    "https://spy-family.net/assets/img/special/episode5/01.png",
-    "https://spy-family.net/assets/img/special/episode5/02.png",
-    "https://spy-family.net/assets/img/special/episode6/03.png",
-    "https://spy-family.net/assets/img/special/episode6/05.png",
-    "https://spy-family.net/assets/img/special/episode7/01.png",
-    "https://spy-family.net/assets/img/special/episode7/03.png",
-    "https://spy-family.net/assets/img/special/episode7/04.png",
-    "https://spy-family.net/assets/img/special/episode8/01.png",
-    "https://spy-family.net/assets/img/special/episode9/04.png",
-    "https://spy-family.net/assets/img/special/episode10/02.png",
-    "https://spy-family.net/assets/img/special/episode10/03.png",
-    "https://spy-family.net/assets/img/special/episode10/04.png",
-    "https://spy-family.net/assets/img/special/episode11/01.png",
-    "https://spy-family.net/assets/img/special/episode11/02.png",
-    "https://spy-family.net/assets/img/special/episode11/03.png",
-    "https://spy-family.net/assets/img/special/episode11/04.png",
-    "https://spy-family.net/assets/img/special/episode11/06.png",
-    "https://spy-family.net/assets/img/special/episode12/03.png",
-    "https://spy-family.net/assets/img/special/episode12/06.png",
+    "/Users/hannah/Documents/GitHub/anya-forger.github.io/public/IMG_3090.JPG",
+    "/Users/hannah/Documents/GitHub/anya-forger.github.io/public/IMG_3775.jpg",
+    "/Users/hannah/Documents/GitHub/anya-forger.github.io/public/IMG_3873.JPG",
+    "/Users/hannah/Documents/GitHub/anya-forger.github.io/public/IMG_4155.JPG",
+    "/Users/hannah/Documents/GitHub/anya-forger.github.io/public/IMG_4486.JPG",
+    "/Users/hannah/Documents/GitHub/anya-forger.github.io/public/IMG_4763.jpg",
+    "/Users/hannah/Documents/GitHub/anya-forger.github.io/public/IMG_4858.JPG",
+    "/Users/hannah/Documents/GitHub/anya-forger.github.io/public/IMG_5077.JPG",
+    "/Users/hannah/Documents/GitHub/anya-forger.github.io/public/IMG_5109.JPG",
+    "/Users/hannah/Documents/GitHub/anya-forger.github.io/public/IMG_5114.JPG",
+    "/Users/hannah/Documents/GitHub/anya-forger.github.io/public/IMG_5127.JPG",
+    "/Users/hannah/Documents/GitHub/anya-forger.github.io/public/IMG_5130.JPG",
 );
 
 const titles = ["ZhongShan Girls High School Student", "124th", "Class Lien", "Taipei"];
