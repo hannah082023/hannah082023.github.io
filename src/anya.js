@@ -51,7 +51,7 @@ const projects = [
         description: "A portfolio website for myself that I developed in NTNU CSIE Camp. You're now here!",
         image: "https://img.onl/pmSrht",
         skills: ["Vue", "Tailwind", "Node.js", "GitHub"],
-        url: "https://github.com/anya-forger/anya-forger.github.io",
+        url: "https://hannah082023.github.io/",
     },
     {
         name: "我的專題摘發",
