@@ -4,7 +4,7 @@ A Profile Website made for Modern Web Development Guided Project, one of the cou
 
 > DISCLAIMER
 >
-> All the images are from [Kanahei's Small Animals](https://instagram.com/kanahei_?igshid=YmMyMTA2M2Y=).
+> All the images are from [Kanahei's Small Animals](https://www.kanahei.com/).
 >
 > We do not own the rights to the images and only use them for personal purposes.
 
