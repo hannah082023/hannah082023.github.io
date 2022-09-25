@@ -28,12 +28,14 @@ const about = [
     "My name is Hannah Su.",
     "I am studying ZhongShan Girls High School mathematics and science gifted class.",
     "I'm now doing a computer science research about image recognization.",
-    "I have many interests, such as coding, playing piano, making up, shopping.",
+    "I'm also a beginner of C++ programming language.",
+    "Speaking of my habitual operating system, I'm an Applefan, I use iOS, iPadOS, macOS and watchOS.",
+    "I have many interests, such as coding, playing pop piano, making up and shopping.",
     "And I love Kanahei's Small Animals!",
     "",
-    "In 2022 summer I went to NTNU CSIE Camp to learn how to code.",
-    "I was taught how to build this website and found this interesting!",
-    "I'm grateful for everyone's effort, I had great memories there:D",
+    "This website was built in 2022 NTNU CSIE CAMP.",
+    "I forked Anya's Website built by JacobLinCool and edited it into my portfolio website.",
+    "I'm grateful for everyone's effort, I learned a lot and had great memories there:D",
     "During the camp, I learned how to: ",
     "  - Build SPA Website with frontend framework Vue and Tailwind.",
     "  - Develop efficiently with Node.js ecosystem.",
@@ -41,8 +43,9 @@ const about = [
     "  - Operate Linux system with common commands.",
     "  - Use Git and GitHub to work on projects.",
     "",
-    'By the way, please follow my Instagram(⁎⁍̴̛ᴗ⁍̴̛⁎) @hannah082023',
-    'If you have any questions or suggestions, please contact me: hannah082023@gmail.com',
+    'If you have any questions of suggestions, you can find me at:',
+    'Instagram: hannah082023',
+    'Email: hannah082023@gmail.com',
 ].join("\n");
 
 const projects = [
@@ -55,10 +58,10 @@ const projects = [
     },
     {
         name: "我的專題摘發",
-        description: "Coming soon...",
+        description: "These are the slides of my abstract presentation. The presentation takes place at September 30th. Coming soon...",
         image: "image/3.png",
         skills: ["AI", "Computer Science", "Image Recognization","CNN"],
-        url: "https://www.instagram.com/hannah082023/",
+        url: "https://docs.google.com/presentation/d/1t8nCcdlOXzrBdMvVrFnxquDlMV0qeru5ZOUEgcc1onQ/edit?usp=sharing",
     },
     {
         name: "2022 GiCS初賽影片",
