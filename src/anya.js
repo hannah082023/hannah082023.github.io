@@ -61,7 +61,7 @@ const projects = [
         description: "These are the slides of my abstract presentation. The presentation takes place at September 30th. Coming soon...",
         image: "image/3.png",
         skills: ["AI", "Computer Science", "Image Recognization","CNN"],
-        url: "https://docs.google.com/presentation/d/1t8nCcdlOXzrBdMvVrFnxquDlMV0qeru5ZOUEgcc1onQ/edit?usp=sharing",
+        url: "https://reurl.cc/QblgkM",
     },
     {
         name: "2022 GiCS初賽影片",
