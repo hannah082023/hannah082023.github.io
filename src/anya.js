@@ -57,8 +57,8 @@ const projects = [
         url: "https://hannah082023.github.io/",
     },
     {
-        name: "我的專題摘發",
-        description: "These are the slides of my abstract presentation. The presentation takes place at September 30th. Coming soon...",
+        name: "我的專題摘發 My abstract presentation",
+        description: "These are the slides of my abstract presentation. The presentation took place at September 30th.",
         image: "image/3.png",
         skills: ["AI", "Computer Science", "Image Recognization","CNN"],
         url: "https://reurl.cc/QblgkM",
