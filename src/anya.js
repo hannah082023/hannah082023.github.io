@@ -26,10 +26,10 @@ const titles = ["ZhongShan Girls High School Student", "124th", "Class Lien", "T
 
 const about = [
     "My name is Hannah Su.",
-    "I am studying ZhongShan Girls High School mathematics and science gifted class.",
-    "I'm now doing a computer science research about image recognization.",
-    "I'm also a beginner of C++ programming language.",
-    "I have many interests, such as coding, playing pop piano, making up and shopping.",
+    "I am studying in ZhongShan Girls High School mathematics and science gifted class.",
+    "My research group is information technology,",
+    "and I finished my research presentation at May 26, 2023.",
+    "My interests: Make Up, Manicure, Badminton, Pop Piano.",
     "I'm an Applefan,",
     "and I love Kanahei's Small Animals!",
     "",
@@ -44,18 +44,18 @@ const about = [
 
 const projects = [
     {
-        name: "我的個人網站 My Portfolio Website",
-        description: "A portfolio website for myself that I developed in NTNU CSIE Camp. You're now here!",
-        image: "image/2.png",
-        skills: ["Vue", "Tailwind", "Node.js", "GitHub"],
-        url: "https://hannah082023.github.io/",
+        name: "Aerialien 成發網站",
+        description: "I made a website for our research presentation《Aerialien》. The audience could find related imformation and links here.",
+        image: "image/aerialienweb.png",
+        skills: ["HTML", "CSS", "GitHub", "Figma"],
+        url: "https://aerialien23.github.io/",
     },
     {
-        name: "我的專題摘發 My Abstract Presentation",
-        description: "These are the slides of my abstract presentation. The presentation took place at September 30th.",
-        image: "image/3.png",
-        skills: ["AI", "Computer Science", "Image Recognization","CNN"],
-        url: "https://reurl.cc/QblgkM",
+        name: "我的高中專題成發 My High School Research Presentation",
+        description: "These are the slides of my research presentation. The presentation took place at May 26, 2023.",
+        image: "image/slides.png",
+        skills: ["AI", "YOLOv5", "Image Recognization","CNN"],
+        url: "https://reurl.cc/o7xXWD",
     },
     {
         name: "2022 GiCS初賽影片",
