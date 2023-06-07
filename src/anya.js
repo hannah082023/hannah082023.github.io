@@ -25,7 +25,7 @@ pic.avatars.push(
     "image/IMG_3952 2.jpg",
     "image/IMG_1476.jpg",
     "image/IMG_6584.jpg",
-    "image/IMG_5077.jpg",
+    "image/IMG_5077.JPG",
     "image/gics.jpg",
     "image/IMG_6129 2.jpg",
     "image/IMG_6604 2.jpg",
