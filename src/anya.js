@@ -8,7 +8,6 @@ const pic = {
 
 
 pic.avatars.push(
-    "image/IMG_0006.jpg",
     "image/IMG_0017.jpg",
     "image/IMG_0061.jpg",
     "image/IMG_0392.JPG",
