@@ -41,7 +41,7 @@ function update(delay = 0) {
             </transition>
             <Typing
                 :text="about"
-                :speed="10"
+                :speed="7"
                 v-if="step > 0"
                 @done="step++"
                 class="flex-1 md:mx-4"

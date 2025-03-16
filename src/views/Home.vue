@@ -17,7 +17,7 @@ const width = screen.width;
                     @done="step++"
                     class="mb-2 block text-2xl sm:text-3xl lg:text-4xl"
                 />
-                <Typing v-if="step > 0" @done="step++" :text="titles.join(', ')" :speed="60" />
+                <Typing v-if="step > 0" @done="step++" :text="titles.join(', ')" :speed="30" />
                 <a
                     v-if="step > 1"
                     class="mt-8 flex items-center text-lg text-gray-500 transition-all hover:text-gray-700"

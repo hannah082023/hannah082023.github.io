@@ -1,8 +1,8 @@
 const pic = {
     uniform: "https://stickershop.line-scdn.net/stickershop/v1/sticker/382380375/android/sticker.png",
-    icecream: "https://stickershop.line-scdn.net/stickershop/v1/product/24283/LINEStorePC/main.png;compress=true",
+    icecream: "image/fimmies.png",
     uniform_large: "https://spy-family.net/assets/img/top/chara_anya_1.png",
-    casual_large: "https://stickershop.line-scdn.net/stickershop/v1/product/8949/LINEStorePC/main.png",
+    casual_large: "image/IMG_0535.PNG",
     avatars: [],
 };
 
@@ -32,6 +32,7 @@ pic.avatars.push(
     "image/IMG_9751.jpg",
     "image/IMG_8635.jpg",
     "image/IMG_7150.jpg",
+    "image/IMG_0017.jpg",
 );
 
 const titles = ["National Cheng Kung University (NCKU) Student", "Engineering Science 117", "ZSGHed", "From Taiwan Taipei"];
