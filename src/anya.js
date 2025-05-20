@@ -1,6 +1,6 @@
 const pic = {
     uniform: "https://stickershop.line-scdn.net/stickershop/v1/sticker/382380375/android/sticker.png",
-    icecream: "image/fimmies.png",
+    icecream: "image/fimmies.PNG",
     uniform_large: "https://spy-family.net/assets/img/top/chara_anya_1.png",
     casual_large: "image/IMG_0535.PNG",
     avatars: [],
