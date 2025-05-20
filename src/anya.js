@@ -66,7 +66,7 @@ const projects = [
         name: "我的高中專題成發 My High School Research Presentation",
         description: "These are the slides of my research presentation. The presentation took place at May 26, 2023.",
         image: "image/slides.png",
-        skills: ["AI", "YOLOv5", "Image Recognization","CNN"],
+        skills: ["Machine Learning", "YOLOv5", "PyTorch","CNN"],
         url: "https://reurl.cc/o7xXWD",
     },
     {
