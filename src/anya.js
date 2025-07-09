@@ -35,22 +35,24 @@ pic.avatars.push(
     "image/IMG_0017.jpg",
 );
 
-const titles = ["National Cheng Kung University (NCKU) Student", "Engineering Science 117", "ZSGHed", "From Taiwan Taipei"];
+const titles = ["National Cheng Kung University (NCKU) Student", "Engineering Science 117", "ZSGHed", "From Taipei, Taiwan"];
 
 const about = [
     "My name is Hannah Su.",
     "I am a college student majoring Engineering Science in NCKU,",
     "and a member of ES Makerspace and GO Club.",
-    "I'm born in Taipei, and I'm a graduate of Taipei Municipal ZhongShan Girls High School.",
+    "I'm born in Taipei, and I graduated from Taipei Municipal ZhongShan Girls High School.",
     "I have various interests, including doing makeup, manicure, handicrafts, and playing badminton.",
-    "I like desserts, and I often visit cafés recently, welcome to recommend me some good cafés or go with me!",
+    "I also found my interest in programming recently, and I'm planning to learn more about it.",
+    "I'm currently studying in NCKU, located in Tainan, Taiwan.",
+    "I like desserts, and I often visit cafés in Tainan recently.",
     "For music, I like listening to K-pop, and my favorite group is LE SSERAFIM.",
     "I also like other pop music!",
     "",
     "This website was built in 2022 NTNU CSIE CAMP.",
     "I like this project and I keep updating it :).",
     "",
-    'If you want to know more about me, you can follow my Instagram!',
+    'If you want to know more about me, you can follow my Instagram,',
     'You can see my daily life and my favorite things there!',
 ].join("\n");
 
