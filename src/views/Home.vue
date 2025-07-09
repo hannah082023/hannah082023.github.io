@@ -48,7 +48,7 @@ const width = screen.width;
                 >
                     <img
                         :src="pic.casual_large"
-                        class="h-full w-full drop-shadow-lg md:w-96"
+                        class="w-72 h-auto drop-shadow-lg"
                     />
                 </transition>
             </div>
