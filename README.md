@@ -1,10 +1,11 @@
 # Hannah's Profile Website
 
-A Profile Website made for Modern Web Development Guided Project, one of the courses in NTNU CSIE Camp 2022.
+A Profile Website made for Modern Web Development Guided Project, one of the courses in NTNU CSIE Camp 2022. Forked and Modified from [anya-forger.github.io](https://github.com/anya-forger/anya-forger.github.io).
+This is a website about me. You can also see projects I've done in this website.
 
 > DISCLAIMER
 >
-> All the images are from [Kanahei's Small Animals](https://www.kanahei.com/).
+> All the images are from [Kanahei's Small Animals](https://www.kanahei.com/) and Fim's Club.
 >
 > We do not own the rights to the images and only use them for personal purposes.
 
