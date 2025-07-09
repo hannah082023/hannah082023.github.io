@@ -72,11 +72,11 @@ const projects = [
         url: "https://reurl.cc/o7xXWD",
     },
     {
-        name: "2022 GiCS初賽影片",
-        description: "2022 資安女婕思--創意發想賽 成功進入決賽！",
-        image: "image/1.jpeg",
-        skills: ["CyberSecurity","QR Code"],
-        url: "https://youtu.be/RgyQCT0VU2Y",
+        name: "Discord Bot -- 活躍羅伯特",
+        description: "簡易的機器人，會打招呼，會偵測收回與修改訊息，還有slash command!",
+        image: "image/bot_info.png",
+        skills: ["Discord Bot","Slash Command"],
+        url: "https://github.com/hannah082023/Discord-Bot",
     },
 ];
 
