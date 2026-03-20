@@ -9,37 +9,37 @@ const pic = {
 
 pic.avatars.push(
     "image/IMG_0017.jpg",
-    "image/IMG_0061.jpg",
+    "image/IMG_6561.jpg",
     "image/IMG_1890.jpg",
     "image/IMG_7673.jpg",
-    "image/IMG_0874.jpg",
+    "image/IMG_6555.jpg",
     "image/IMG_8636.jpg",
     "image/IMG_0236.jpg",
     "image/IMG_0237.jpg",
-    "image/IMG_2577.jpg",
+    "image/DSC_6398.jpg",
     "image/IMG_5497 2.jpg",
     "image/IMG_5298.jpg",
     "image/IMG_5442.jpg",
     "image/IMG_8629.jpg",
     "image/IMG_6170.jpg",
     "image/IMG_8367.jpg",
-    "image/IMG_6584.jpg",
+    "image/IMG_4186.jpg",
     "image/IMG_8650.jpg",
-    "image/gics.jpg",
+    "image/IMG_6220.jpg",
     "image/IMG_9082.jpg",
     "image/IMG_1482.jpg",
     "image/IMG_2187.png",
     "image/IMG_9751.jpg",
     "image/IMG_8635.jpg",
-    "image/IMG_7150.jpg",
-    "image/IMG_0017.jpg",
+    "image/IMG_2564.jpg",
+    "image/IMG_4845.jpg",
 );
 
-const titles = ["National Cheng Kung University (NCKU) Student", "Engineering Science 117", "ZSGHed", "From Taipei, Taiwan"];
+const titles = ["National Cheng Kung University (NCKU) Student", "Computer Science andEngineering 117", "ZSGHed", "From Taipei, Taiwan"];
 
 const about = [
     "My name is Hannah Su.",
-    "I am a college student majoring Engineering Science in NCKU,",
+    "I am a college student majoring CSIE in NCKU,",
     "and a member of ES Makerspace and GO Club.",
     "I'm born in Taipei, and I graduated from Taipei Municipal ZhongShan Girls High School.",
     "I have various interests, including doing makeup, manicure, handicrafts, and playing badminton.",
