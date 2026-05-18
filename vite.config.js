@@ -25,6 +25,7 @@ export default defineConfig({
                     },
                 ],
                 skipWaiting: true,
+                navigateFallbackDenylist: [/^\/SimpleWeb/]
             },
         }),
     ],
