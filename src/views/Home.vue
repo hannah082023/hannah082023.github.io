@@ -20,7 +20,7 @@ const width = screen.width;
                 <Typing v-if="step > 0" @done="step++" :text="titles.join(', ')" :speed="30" />
                 <a
                     v-if="step > 1"
-                    class="mt-8 flex items-center text-lg text-gray-500 transition-all hover:text-gray-700"
+                    class="mt-4 flex items-center text-lg text-gray-500 transition-all hover:text-gray-700"
                     href="https://github.com/hannah082023"
                     target="_blank"
                 >
@@ -48,7 +48,7 @@ const width = screen.width;
                 >
                     <img
                         :src="pic.casual_large"
-                         class="w-72 h-auto drop-shadow-lg mt-8 ml-4"
+                         class="w-72 h-auto drop-shadow-lg -mt-16 ml-4"
                     />
                 </transition>
             </div>
